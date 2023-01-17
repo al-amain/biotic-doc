@@ -22,7 +22,7 @@ After you loaded project successfully, run the following command in the terminal
 
 All below steps are must be followed to build and run application
 
-<figure><img src="../.gitbook/assets/build_img2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/build_img2 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **Build and Run App**
 
@@ -46,7 +46,7 @@ flutter run
 
 You will see below like screen after you have build your app successfully
 
-<figure><img src="../.gitbook/assets/build_img4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/build_img4 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Try hot reload**
 
