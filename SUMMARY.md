@@ -20,7 +20,7 @@
 
 * [Common Errors](extra/common-errors.md)
 * [Roadmap](extra/roadmap.md)
-* [Change Log](extra/change-log.md)
+* [Change Log](extra/typography.md)
 * [LICENSE](extra/license.md)
 
 ## Help & Support

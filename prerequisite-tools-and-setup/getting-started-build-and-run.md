@@ -8,7 +8,7 @@ All below steps are must be followed to build and run application
 
 Download and find the your project folder, use your preferred IDE **(Android Studio / Visual Studio Code / IntelliJ IDEA)** to run the project.
 
-<figure><img src="../.gitbook/assets/build_img1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/build_img1 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **Get Dependencies**
 
@@ -22,7 +22,7 @@ After you loaded project successfully, run the following command in the terminal
 
 All below steps are must be followed to build and run application
 
-<figure><img src="../.gitbook/assets/build_img2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/build_img2.png" alt=""><figcaption></figcaption></figure>
 
 ## **Build and Run App**
 
