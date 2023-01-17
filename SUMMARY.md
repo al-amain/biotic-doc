@@ -12,14 +12,14 @@
   * [Chrome OS](prerequisite-tools-and-setup/tools-and-setup/chrome-os.md)
 * [Set up an editor](prerequisite-tools-and-setup/set-up-an-editor.md)
 * [Getting Started (Build & Run)](prerequisite-tools-and-setup/getting-started-build-and-run.md)
+* [Imagery](prerequisite-tools-and-setup/imagery.md)
+* [Colors](prerequisite-tools-and-setup/colors.md)
 
 ## Extra
 
 * [Common Errors](extra/common-errors.md)
 * [LICENSE](extra/license.md)
-* [Colors](extra/colors.md)
 * [Typography](extra/typography.md)
-* [Imagery](extra/imagery.md)
 
 ## Help & Support
 

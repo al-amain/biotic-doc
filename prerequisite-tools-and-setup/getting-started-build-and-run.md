@@ -22,7 +22,7 @@ After you loaded project successfully, run the following command in the terminal
 
 All below steps are must be followed to build and run application
 
-<figure><img src="../.gitbook/assets/build_img2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/build_img2 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **Build and Run App**
 
@@ -30,7 +30,7 @@ All below steps are must be followed to build and run application
 2. In the target selector, select an Android device for running the app. If none are listed as available, select Tools > Android > AVD Manager and create one there. For details, see [Managing AVDs](https://developer.android.com/studio/run/managing-avds).
 3. Click the run icon in the toolbar, or invoke the menu item Run > Run.
 
-<figure><img src="../.gitbook/assets/build_img3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/build_img3 (1).png" alt=""><figcaption></figcaption></figure>
 
 After the app build completes, you’ll see the app on your device.
 
@@ -46,7 +46,7 @@ flutter run
 
 You will see below like screen after you have build your app successfully
 
-<figure><img src="../.gitbook/assets/build_img4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/build_img4 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Try hot reload**
 
