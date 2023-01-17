@@ -1,11 +1,24 @@
 # Imagery
 
-## Our approach
+## Add local images
 
-Our approach to imagery present commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Sed posuere consectetur est at lobortis.
+If you want to add your local custom image you need to insert those images in **assets/images/** folder. Then in your code use following to show image
 
-### Abstract Examples
+```dart
+Image.asset(
+    'assets/images/file-name-of-your-image'
+),
+```
 
-![](https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8aWxsdXN0cmF0aW9ufGVufDB8fHx8MTY2MDU3Mjk5Ng\&ixlib=rb-1.2.1\&q=80)
+## Add network images
 
-![](https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdHxlbnwwfHx8fDE2NjA1NzI4NTc\&ixlib=rb-1.2.1\&q=80)
+Use below code snippet to load images from url
+
+```dart
+import 'package:cached_network_image/cached_network_image.dart';
+
+CachedNetworkImage(
+    imageUrl: 'your-image-url-in-string-format',
+ ),
+```
+

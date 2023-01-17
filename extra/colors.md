@@ -1,4 +1,4 @@
-# LICENSE
+# Colors
 
 ## Define custom color
 
@@ -47,31 +47,3 @@ Container(
 ## Customize theme Color
 
 You can also customize color in theme by changing color in **lib/config/datk\_theme\_colors.dart** file
-
-{% tabs %}
-{% tab title="REGULAR LICENSE" %}
-* Figma UI design.
-* Full Android And iOS Source Code Responsive UI.
-* Full Document with Screenshot.
-* Lifetime Free Upgrade Version.
-* Code Flexibility.
-  * Figma UI design.
-  * Full Android And iOS Source Code Responsive UI.
-  * Full Document with Screenshot.
-  * Lifetime Free Upgrade Version.
-  * Code Flexibility.
-    * Figma UI design.
-    * Full Android And iOS Source Code Responsive UI.
-    * Full Document with Screenshot.
-    * Lifetime Free Upgrade Version.
-    * Code Flexibility.
-{% endtab %}
-
-{% tab title="EXTENDED LICENSE" %}
-* Figma UI design.
-* Full Android And iOS Source Code Responsive UI.
-* Full Document with Screenshot.
-* Lifetime Free Upgrade Version.
-* Code Flexibility.
-{% endtab %}
-{% endtabs %}
