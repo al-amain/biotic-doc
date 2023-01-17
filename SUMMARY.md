@@ -18,10 +18,10 @@
 
 ## Extra
 
-* [Roadmap](extra/roadmap.md)
 * [Common Errors](extra/common-errors.md)
+* [Roadmap](extra/roadmap.md)
+* [Change Log](extra/change-log.md)
 * [LICENSE](extra/license.md)
-* [Typography](extra/typography.md)
 
 ## Help & Support
 
