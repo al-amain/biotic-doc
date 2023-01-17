@@ -16,7 +16,7 @@
 ## Extra
 
 * [Common Errors](extra/common-errors.md)
-* [Colors](extra/colors.md)
+* [LICENSE](extra/license.md)
 * [Typography](extra/typography.md)
 * [Imagery](extra/imagery.md)
 
